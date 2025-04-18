@@ -38,6 +38,8 @@ dependencies:
   dio: ^5.8.0+1
   flutter_bloc: ^8.1.6
   either_dart: ^1.0.0
+  socket_io_client: ^2.0.0
+
 
 dev_dependencies:
   flutter_test:
